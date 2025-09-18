@@ -1,0 +1,17 @@
+{
+  "headers": [
+    {
+      "source": "/(.*)\\.(m3u8|m3u)",
+      "headers": [
+        {
+          "key": "Content-Type",
+          "value": "application/vnd.apple.mpegurl"
+        },
+        {
+          "key": "Access-Control-Allow-Origin",
+          "value": "*"
+        }
+      ]
+    }
+  ]
+}
