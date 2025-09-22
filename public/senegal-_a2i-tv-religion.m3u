@@ -1,0 +1,5 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=1920x1080
+#EXTINF:-1 tvg-ID="" tvg-name="SENEGAL ▎A2I TV RELIGION" tvg-logo="https://img.logo-cdn.cc/a2itv.png" group-title="WEST AFRICA",SENEGAL ▎A2I TV RELIGION
+http://line.4k-soy.cc:80/557714/A9FC62/98466
