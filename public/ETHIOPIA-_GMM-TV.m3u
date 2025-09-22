@@ -1,0 +1,5 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=1920x1080
+#EXTINF:-1 tvg-ID="" tvg-name="ETHIOPIA ▎GMM TV" tvg-logo="https://img.logo-cdn.cc/gmmtv.png" group-title="EAST AFRICA",ETHIOPIA ▎GMM TV
+http://line.4k-soy.cc:80/557714/A9FC62/1373179

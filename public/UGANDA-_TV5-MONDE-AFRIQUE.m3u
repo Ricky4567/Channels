@@ -1,0 +1,5 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=1920x1080
+#EXTINF:-1 tvg-ID="" tvg-name="UGANDA ▎TV5 MONDE AFRIQUE" tvg-logo="https://img.logo-cdn.cc/tv5mondeafrique.png" group-title="EAST AFRICA",UGANDA ▎TV5 MONDE AFRIQUE
+http://line.4k-soy.cc:80/557714/A9FC62/118107
