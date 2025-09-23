@@ -1,5 +1,0 @@
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=1920x1080
-#EXTINF:-1 tvg-ID="" tvg-name="AF ▎CNEWS" tvg-logo="https://img.logo-cdn.cc/cnews.png" group-title="AFR ▎CANAL+",AF ▎CNEWS
-http://line.4k-soy.cc:80/557714/A9FC62/312317
